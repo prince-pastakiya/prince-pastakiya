@@ -25,15 +25,11 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 ---
 
 ## Profile Stats
+<!-- GitHub Stats Card -->
 <img align="center" src="https://github-readme-stats-eta-livid-39.vercel.app/api?username=prince-pastakiya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
 
-<img align="center" src="https://github-readme-stats-eta-livid-39.vercel.app/api/top-langs/?username=prince-pastakiya&layout=compact&theme=buefy&hide_border=true" />
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats-eta-livid-39.vercel.app/api?username=prince-pastakiya&show_icons=true&theme=dark" alt="GitHub Stats" />
-
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats-eta-livid-39.vercel.app/api/top-langs/?username=prince-pastakiya&layout=compact&theme=dark" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats-eta-livid-39.vercel.app/api/top-langs/?username=prince-pastakiya&layout=compact&theme=buefy&hide_border=true" />
 
 <!-- Profile Views Badge -->
 [![Profile Views](https://komarev.com/ghpvc/?username=prince-pastakiya&style=for-the-badge&color=blue)](https://github.com/prince-pastakiya)
