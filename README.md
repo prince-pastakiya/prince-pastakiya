@@ -24,6 +24,19 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ---
 
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
+
 ## Profile Stats
 <!-- GitHub Stats Card -->
 <img align="center" src="https://github-readme-stats-eta-livid-39.vercel.app/api?username=prince-pastakiya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
@@ -36,28 +49,7 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ---
 
-## 🧰 Tools & Technologies
-- **BI Tools:** Power BI, Tableau  
-- **Databases:** SQL Server, MySQL  
-- **Languages:** SQL, DAX, Python (for analytics)  
-- **Data Wrangling:** Power Query, Excel  
-- **Other:** Git, Data Modeling, ETL Pipelines  
-
----
-
-## 📌 Featured Projects
-- 📊 **[Mercedes-Benz Sales Dashboard (Power BI)](https://github.com/prince-pastakiya/Mercedes-Benz-Sales-Data-Analysis)** – Sales trends, product performance, and KPIs for Mercedes-Benz models.  
-- 🏥 **[Healthcare Analytics Dashboard (Power BI)](https://github.com/prince-pastakiya/HealthCare-Data-Analytics)** – Patient insights, operational metrics, and occupancy trends.  
-- 🚗 **[Uber Ride Analytics (Power BI + SQL)](https://github.com/prince-pastakiya/Uber-Data-Analytics-Project)** – Ride volume, payment behavior, and driver/customer performance analysis.  
-- 👥 **[HR Analytics Dashboard (Tableau)](https://github.com/prince-pastakiya/Human-Resources-Tableau-Project)** – Workforce demographics, income analysis, and detailed employee records.  
-
----
-
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/prince-pastakiya/)  
-- 📧 Email: princepastakiya@gmail.com  
+- 📧 princepastakiya@gmail.com  
 - 🌐 [Portfolio](https://prince-pastakiya-portfolio.vercel.app/)
-
----
-
-✨ *"Data tells stories — I just help visualize them."*
