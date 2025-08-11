@@ -24,6 +24,11 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ---
 
+| <a href="https://github.com/prince-pastakiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-pastakiya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prince's github stats" /></a> | <a href="https://github.com/prince-pastakiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-pastakiya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+---
+
 ## 🧰 Tools & Technologies
 - **BI Tools:** Power BI, Tableau  
 - **Databases:** SQL Server, MySQL  
@@ -34,17 +39,17 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 ---
 
 ## 📌 Featured Projects
-- 📊 **[Mercedes-Benz Sales Dashboard (Power BI)](YourProjectLink)** – Sales trends, product performance, and KPIs for Mercedes-Benz models.  
-- 🏥 **[Healthcare Analytics Dashboard (Power BI)](YourProjectLink)** – Patient insights, operational metrics, and occupancy trends.  
-- 🚗 **[Uber Ride Analytics (Power BI + SQL)](YourProjectLink)** – Ride volume, payment behavior, and driver/customer performance analysis.  
-- 👥 **[HR Analytics Dashboard (Tableau)](YourProjectLink)** – Workforce demographics, income analysis, and detailed employee records.  
+- 📊 **[Mercedes-Benz Sales Dashboard (Power BI)](https://github.com/prince-pastakiya/Mercedes-Benz-Sales-Data-Analysis)** – Sales trends, product performance, and KPIs for Mercedes-Benz models.  
+- 🏥 **[Healthcare Analytics Dashboard (Power BI)](https://github.com/prince-pastakiya/HealthCare-Data-Analytics)** – Patient insights, operational metrics, and occupancy trends.  
+- 🚗 **[Uber Ride Analytics (Power BI + SQL)](https://github.com/prince-pastakiya/Uber-Data-Analytics-Project)** – Ride volume, payment behavior, and driver/customer performance analysis.  
+- 👥 **[HR Analytics Dashboard (Tableau)](https://github.com/prince-pastakiya/Human-Resources-Tableau-Project)** – Workforce demographics, income analysis, and detailed employee records.  
 
 ---
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/prince-pastakiya/)  
 - 📧 Email: princepastakiya@gmail.com  
-- 🌐 Portfolio: [https://prince-pastakiya-portfolio.vercel.app/]
+- 🌐 [Portfolio](https://prince-pastakiya-portfolio.vercel.app/)
 
 ---
 
