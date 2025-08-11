@@ -28,6 +28,8 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 | <a href="https://github.com/prince-pastakiya/github-readme-stats"><img align="center" src="https://github-readme-stats-eta-livid-39.vercel.app/api?username=prince-pastakiya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/prince-pastakiya/github-readme-stats"><img align="center" src="https://github-readme-stats-eta-livid-39.vercel.app/api/top-langs/?username=prince-pastakiya&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=prince-pastakiya&style=for-the-badge&color=blue)](https://github.com/prince-pastakiya)
 
 ---
 
