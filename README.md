@@ -5,6 +5,16 @@ Turning raw data into impactful business insights through interactive dashboards
 
 ---
 
+## ☕ Stay Connected
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@princepastakiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-pastakiya/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prince-pastakiya-portfolio.vercel.app/)
+
+---
+
 ## 💡 About Me
 - 🎯 Passionate about **Data Analytics, Business Intelligence, and Data Visualization**  
 - 📊 Experienced in **Power BI, Tableau, SQL, Excel, and DAX**  
