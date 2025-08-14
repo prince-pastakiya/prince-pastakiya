@@ -9,7 +9,7 @@ Turning raw data into impactful business insights through interactive dashboards
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![Tableau](https://img.shields.io/badge/Tablue%20Public-darkblue)](https://public.tableau.com/app/profile/prince.pastakiya/vizzes)
+[![Tableau](https://img.shields.io/badge/Tablue_Pablic-0077B5?style=for-the-badge&logo=Tablue_Public&logoColor=white)](https://public.tableau.com/app/profile/prince.pastakiya/vizzes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-pastakiya/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prince-pastakiya-portfolio.vercel.app/)
 
