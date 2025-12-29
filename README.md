@@ -11,7 +11,7 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![Tableau](https://img.shields.io/badge/Tableau_Public-00008B?style=for-the-badge&logo=Tableau_Public&logoColor=white)](https://public.tableau.com/app/profile/prince.pastakiya/vizzes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-pastakiya/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prince-insight.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://princepastakiya.com/)
 
 ---
 
