@@ -51,5 +51,5 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/prince-pastakiya/)  
-- 📧 princepastakiya@gmail.com  
-- 🌐 [Portfolio](https://prince-pastakiya-portfolio.vercel.app/)
+- 📧 [Email](mailto:princepastakiya@email.com)  
+- 🌐 [Portfolio](https://princepastakiya.com/)
