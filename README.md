@@ -1,6 +1,7 @@
 # Hi there, I'm Prince Pastakiya 👋
 
-🚀 **Senior Data Engineer | Analytics Lead | Modern Data Stack Specialist** 
+🚀 **Senior Data Engineer | Analytics Lead | Modern Data Stack Specialist**
+--
 Building reliable, scalable data pipelines and turning complex datasets into trusted business insights.
 
 ---
