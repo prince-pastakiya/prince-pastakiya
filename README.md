@@ -1,13 +1,13 @@
-# Hi there, I'm Prince Pastakiya 👋  
+# Hi there, I'm Prince Pastakiya 👋
 
-🚀 **Data Analyst | BI Developer | SQL & Visualization Enthusiast**  
-Turning raw data into impactful business insights through interactive dashboards and data storytelling.
+🚀 **Senior Data Engineer | Analytics Lead | Modern Data Stack Specialist** 
+Building reliable, scalable data pipelines and turning complex datasets into trusted business insights.
 
 ---
 
 ## ☕ Stay Connected
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let’s connect and collaborate:
 
 [![Tableau](https://img.shields.io/badge/Tableau_Public-00008B?style=for-the-badge&logo=Tableau_Public&logoColor=white)](https://public.tableau.com/app/profile/prince.pastakiya/vizzes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-pastakiya/)
@@ -16,24 +16,47 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 ---
 
 ## 💡 About Me
-- 🎯 Passionate about **Data Analytics, Business Intelligence, and Data Visualization**  
-- 📊 Experienced in **Power BI, Tableau, SQL, Excel, and DAX**  
-- 🛠 Skilled in **Data Cleaning, Modeling, and KPI Development**  
-- 📈 Love building dashboards that drive **strategic decisions**  
-- 🌱 Constantly learning **advanced analytics & cloud-based BI solutions**
+- 🧠 4+ years of hands-on experience across Financial Services, Telecom, and Healthcare domains
+- ⚙️ Design, build, and troubleshoot ETL / ELT pipelines handling millions of records daily
+- 🔥 Strong in Databricks, PySpark, SQL, Python, and cloud-native data platforms
+- 📊 Deliver executive-ready Power BI dashboards for KPIs, risk monitoring, and operations
+- 🛡️ Focused on data quality, validation, monitoring, and performance optimization
+- 🤝 Comfortable mentoring engineers and collaborating with Product, Risk, Fraud, and Business teams
+- 🌱 Continuously learning advanced cloud data engineering and real-time analytics
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="40" style="vertical-align:middle; margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right:10px;" />
-</p>
+### Data Engineering & Platforms
+
+* Databricks • Apache Spark • PySpark • Delta Lake • Airflow • Kafka
+
+### Programming & Analytics
+
+* Python • SQL • Pandas • NumPy • R • Statistical Modeling
+
+### Databases & Warehousing
+
+* Snowflake • PostgreSQL • MySQL • Oracle • SQL Server • AWS Redshift
+
+### Cloud & DevOps
+
+* AWS (S3, Glue, Lambda) • Azure • Git • CI/CD Pipelines • API Integrations
+
+### Business Intelligence
+
+* Power BI (DAX) • Tableau • Excel (Power Query, VBA, Pivot Tables)
+
+---
+
+## 🧩 What I Work On
+
+- 📌 High-volume ETL pipelines for financial and customer analytics
+- 📌 Performance tuning of Spark and SQL workloads
+- 📌 End-to-end analytics solutions from raw data to executive dashboards
+- 📌 Modern Data Stack projects using Kafka, Airflow, DBT, Snowflake, and Power BI
+- 📌 Automation & monitoring to catch issues before they impact stakeholders
 
 ---
 
@@ -53,3 +76,5 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 - 💼 [LinkedIn](https://www.linkedin.com/in/prince-pastakiya/)  
 - 📧 [Email](mailto:princepastakiya@email.com)  
 - 🌐 [Portfolio](https://princepastakiya.com/)
+
+⭐ *I use GitHub to showcase production-grade data engineering projects, real-world pipelines, and analytics solutions that mirror how data teams actually work in industry.*
