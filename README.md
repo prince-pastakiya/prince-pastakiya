@@ -17,7 +17,7 @@ Let’s connect and collaborate:
 ---
 
 ## 💡 About Me
-- 🧠 4+ years of hands-on experience across Financial Services, Telecom, and Healthcare domains
+- 🧠 1.5+ years of hands-on experience across Financial Services, Telecom, and Healthcare domains
 - ⚙️ Design, build, and troubleshoot ETL / ELT pipelines handling millions of records daily
 - 🔥 Strong in Databricks, PySpark, SQL, Python, and cloud-native data platforms
 - 📊 Deliver executive-ready Power BI dashboards for KPIs, risk monitoring, and operations
